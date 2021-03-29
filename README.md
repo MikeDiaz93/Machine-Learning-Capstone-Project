@@ -1,4 +1,4 @@
-# Capstone_Project : Arvato Customer Segmentation and Prediction
+# Machine Leanring Capstone Project : Arvato Customer Segmentation and Prediction
 
 This exercise is the final project of the Udacity Machine Learning Nanodegree Program.
 
